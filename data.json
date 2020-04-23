@@ -1,1 +1,49 @@
-{"storymap": {"attribution": "", "call_to_action": true, "zoomify": false, "slides": [{"media": {"url": "//uploads.knightlab.com/storymapjs/ee2172edb6621060cbd921c702a3f241/test1/_images/Screenshot_1587113720.png", "caption": "", "credit": ""}, "location": {"line": true}, "background": {}, "text": {"headline": "Day 1", "text": "asdf"}, "date": "", "type": "overview"}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"iconSize": [48, 30], "lon": 77.283624, "zoom": 12, "lat": 28.487196, "line": true, "use_custom_marker": true, "icon": "//uploads.knightlab.com/storymapjs/ee2172edb6621060cbd921c702a3f241/test1/_images/Screenshot 2020-03-18 at 5.31.13 PM.png"}, "text": {"headline": "", "text": ""}}, {"date": "", "media": {"url": "//uploads.knightlab.com/storymapjs/ee2172edb6621060cbd921c702a3f241/test1/_images/Screenshot 2020-03-18 at 5.31.13 PM.png", "caption": "", "credit": ""}, "location": {"lat": 28.57, "line": true, "lon": 77.32, "zoom": 12, "use_custom_marker": false}, "text": {"headline": "", "text": ""}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"lat": 21.608493, "line": true, "lon": 88.548058, "zoom": 1}, "text": {"headline": "", "text": ""}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"lat": 8.5074, "line": true, "lon": 76.972, "zoom": 12}, "text": {"headline": "", "text": ""}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"lat": 8.5074, "line": true, "lon": 76.972, "zoom": 12}, "text": {"headline": "", "text": ""}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"lat": 8.5074, "line": true, "lon": 76.972, "zoom": 12}, "text": {"headline": "", "text": ""}}], "map_type": "stamen:watercolor", "call_to_action_text": "", "map_as_image": true, "map_subdomains": ""}, "font_css": "stock:bitter-raleway"}
+{
+	"storymap": {
+		"slides": [{
+			"media": {
+				"url": "img/uam.png",
+				"caption": "",
+				"credit": ""
+			},
+			"location": {
+				"line": true
+			},
+			"background": {},
+			"text": {
+				"headline": "Kids, ",
+				"text": "Let me tell you the story of how I met your mother..."
+			},
+			"date": "",
+			"type": "overview"
+		}, {
+			"date": "22/04/2018",
+			"media": {
+				"url": "img/2018-04-hi_hello.png",
+				"caption": "",
+				"credit": "April 22nd, 2018"
+			},
+			"location": {
+				"iconSize": [30, 30],
+				"lon": 77.234245,
+				"zoom": 12,
+				"lat": 28.564012,
+				"line": true,
+				"use_custom_marker": true,
+				"icon": "img/couple_marker.png"
+			},
+			"text": {
+				"headline": "Lil Ol' Cupid",
+				"text": "A gamble. A push from a friend. And just a wee bit of research. "
+			}
+		}],
+		"map_type": "stamen:watercolor",
+		"call_to_action": false,
+		"call_to_action_text": "",
+		"map_as_image": true,
+		"map_subdomains": "",
+		"attribution": "",
+		"zoomify": false
+	},
+	"font_css": "stock:bitter-raleway"
+}
