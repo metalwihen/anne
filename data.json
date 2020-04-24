@@ -573,8 +573,8 @@
 			}
 		],
 		"map_type": "stamen:watercolor",
-		"call_to_action": false,
-		"call_to_action_text": "",
+		"call_to_action": true,
+		"call_to_action_text": "Let's time travel",
 		"map_as_image": true,
 		"map_subdomains": "",
 		"attribution": "",
