@@ -1,42 +1,577 @@
 {
 	"storymap": {
 		"slides": [{
-			"media": {
-				"url": "img/uam.png",
-				"caption": "",
-				"credit": ""
+				"media": {
+					"url": "img/uam.png",
+					"caption": "",
+					"credit": ""
+				},
+				"location": {
+					"line": false
+				},
+				"background": {},
+				"text": {
+					"headline": "Kids, ",
+					"text": "I’m going to tell you an incredible story. The story of how I met... Caroline"
+				},
+				"date": "",
+				"type": "overview"
+			}, {
+				"date": "22/04/2018",
+				"media": {
+					"url": "img/2018-04-hi_hello.png",
+					"caption": "April 22, 2018",
+					"credit": ""
+				},
+				"location": {
+					"line": false
+				},
+				"text": {
+					"headline": "Lil Ol' Cupid",
+					"text": "A gamble. A push from a friend. A wee bit of research. And we got our first hello. And I'm so grateful we did. "
+				}
+			}, {
+				"date": "23/04/2018",
+				"media": {
+					"url": "img/2018-04-donald.png",
+					"caption": "April 23, 2018",
+					"credit": "(C) Disney"
+				},
+				"location": {
+					"line": false
+				},
+				"text": {
+					"headline": "I think I love you, stranger.",
+					"text": "I hate texting. But I loved texting her and learning more about her. For three days, we just messaged each other. No Videos. No Calls."
+				}
+			}, {
+				"date": "25/04/2018",
+				"media": {
+					"url": "img/2018-04-first_encounter.png",
+					"caption": "April 25, 2018",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 77.234245,
+					"zoom": 15,
+					"lat": 28.564012,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "I know this Korean place nearby.",
+					"text": "We decided to meet! Funny how we just couldn't recognize each other. Real life is so different. We probably should have VC'd once before. Or update our social media photos. Nonetheless, I'm glad it happened the way it did. This day marks our first date, and the making of our contract."
+				}
 			},
-			"location": {
-				"line": true
+			{
+				"date": "28/04/2018",
+				"media": {
+					"url": "img/2018-04-park.png",
+					"caption": "April 28, 2018",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 77.1942108,
+					"zoom": 15,
+					"lat": 28.553331,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "No more bro-hugs.",
+					"text": "This time, we wanted to do it right. We took our time. We had a fun date. I still remember the foreigners awwing us when we walked, holding hands."
+				}
 			},
-			"background": {},
-			"text": {
-				"headline": "Kids, ",
-				"text": "Let me tell you the story of how I met your mother..."
+			{
+				"date": "08/05/2018",
+				"media": {
+					"url": "img/2018-05-japanese_restaurant.png",
+					"caption": "May, 2018",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 77.1614855,
+					"zoom": 15,
+					"lat": 28.4984862,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Have you ever tried octopus?",
+					"text": "We hit some rough patches this week. This could have been our last date. But I'm glad we kept going."
+				}
 			},
-			"date": "",
-			"type": "overview"
-		}, {
-			"date": "22/04/2018",
-			"media": {
-				"url": "img/2018-04-hi_hello.png",
-				"caption": "",
-				"credit": "April 22nd, 2018"
+			{
+				"date": "06/06/2018",
+				"media": {
+					"url": "img/2018-06-meet_friends.png",
+					"caption": "June, 2018",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 77.3310613,
+					"zoom": 15,
+					"lat": 28.5438853,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "The meeting of friends",
+					"text": "This day was fun. We explored Amity University, roamed C.P and then introduced our friends. "
+				}
 			},
-			"location": {
-				"iconSize": [30, 30],
-				"lon": 77.234245,
-				"zoom": 12,
-				"lat": 28.564012,
-				"line": true,
-				"use_custom_marker": true,
-				"icon": "img/couple_marker.png"
+			{
+				"date": "12/08/2018",
+				"media": {
+					"url": "img/2018-08-sis.png",
+					"caption": "August, 2018",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 77.2194274,
+					"zoom": 15,
+					"lat": 28.5284523,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Family Movie",
+					"text": "We watched the movie, Christopher Robin, together with my sister."
+				}
 			},
-			"text": {
-				"headline": "Lil Ol' Cupid",
-				"text": "A gamble. A push from a friend. And just a wee bit of research. "
+			{
+				"date": "01/09/2018",
+				"media": {
+					"url": "img/2018-09-sad-pizza.png",
+					"caption": "September, 2018",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 77.1614855,
+					"zoom": 15,
+					"lat": 28.4984862,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Sad Pizza",
+					"text": "The next few weeks we explored a couple of delhi's monuments, PVRs, toy shops and restaurants. However, Caro found a job in Calcutta. She was happy for the opportunity but sad to leave Delhi behind."
+				}
+			},
+			{
+				"date": "10/11/2018",
+				"media": {
+					"url": "img/2018-11-happy-cactus.png",
+					"caption": "November, 2018",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 88.3581146,
+					"zoom": 15,
+					"lat": 22.526432,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Happy Cactus",
+					"text": "Caro was homesick. Actually, to say homesick is an understatement. But I'd come visit."
+				}
+			},
+			{
+				"date": "09/12/2018",
+				"media": {
+					"url": "img/2018-12-bday-boat.png",
+					"caption": "December, 2018",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 88.7828915,
+					"zoom": 10,
+					"lat": 22.1157788,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Birthday on a Boat",
+					"text": "We went for the Sunderban trek in December. We never did see a Bengal Tiger. But it was memorable. Our first out-of-town adventure. "
+				}
+			},
+
+
+
+
+
+
+
+
+			{
+				"date": "19/01/2019",
+				"media": {
+					"url": "img/2019-01-long_distance.png",
+					"caption": "January, 2019",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 88.3581146,
+					"zoom": 15,
+					"lat": 22.526432,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Long distance sucks",
+					"text": "This wasn't easy. But we'd send each other waffles via Swiggy when one of us was down. Once, I tried to courier a package with chocolates - and yet in transit, someone skimmed some of it off and retaped it."
+				}
+			},
+			{
+				"date": "19/02/2019",
+				"media": {
+					"url": "img/2019-03-japan-ears.png",
+					"caption": "February, 2019",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [30, 45],
+					"lon": 139.7454329,
+					"zoom": 15,
+					"lat": 35.6585805,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_boy.png"
+				},
+				"text": {
+					"headline": "Even longer distance",
+					"text": "Then I went to Japan. Now there are souvenirs and candy. "
+				}
+			},
+			{
+				"date": "02/06/2019",
+				"media": {
+					"url": "img/2019-06-match-tee.png",
+					"caption": "June, 2019",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 77.1614855,
+					"zoom": 15,
+					"lat": 28.4984862,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Celebrating our first anniversary",
+					"text": "Matching Tees. Scented Candles. Lots of candy. And something noisy. Did I miss anything?"
+				}
+			},
+			{
+				"date": "19/07/2019",
+				"media": {
+					"url": "img/2019-07-make-days-count.png",
+					"caption": "September, 2019",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 77.2052798,
+					"zoom": 15,
+					"lat": 28.5731461,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Long distance again. Just the other way around.",
+					"text": "Caro's back in Delhi. But I leave for Bangalore. But we make the days together count."
+				}
+			},
+			{
+				"date": "20/12/2019",
+				"media": {
+					"url": "img/2019-12-meet-family.png",
+					"caption": "December, 2019",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 77.2894914,
+					"zoom": 15,
+					"lat": 28.4923586,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Meet the parents",
+					"text": "It was time to tell our parents and have our families meet the significant other. Awkward times. Also, there was a lot of Pocky involved."
+				}
+			},
+
+
+
+
+
+
+
+			{
+				"date": "03/03/2020",
+				"media": {
+					"url": "img/2020-03-flea.png",
+					"caption": "March, 2020",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 77.2174907,
+					"zoom": 15,
+					"lat": 28.5931006,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "What's a flea market?",
+					"text": "Roamed around Delhi for a while, making new memories."
+				}
+			},
+			{
+				"date": "03/03/2020",
+				"media": {
+					"url": "img/2020-03-adopt-cats.png",
+					"caption": "March, 2020",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 77.2894914,
+					"zoom": 15,
+					"lat": 28.4923586,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Let's adopt a cat",
+					"text": "I introduce to you the Mathmew sisters: Lady Misty & Tiger Lilly. We cat-owners now, or rather our families are."
+				}
+			},
+			{
+				"date": "03/04/2020",
+				"media": {
+					"url": "img/2020-04-quarantine-chat.png",
+					"caption": "April, 2020",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 77.2894914,
+					"zoom": 15,
+					"lat": 28.4923586,
+					"line": true,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Socializing during Quarantine",
+					"text": "Weeks of lockdown has made us cranky. Good thing we have video calls. Also, I shaved my head."
+				}
+			},
+
+
+
+
+
+
+
+
+			{
+				"date": "01/01/2022",
+				"media": {
+					"url": "img/2022-eiffel.png",
+					"caption": "The Future",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 2.2922873,
+					"zoom": 15,
+					"lat": 48.8583736,
+					"line": false,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Let's go to Paris!",
+					"text": "Now that the pandemic was finally over, it was high time we travel!"
+				}
+			},
+			{
+				"date": "01/01/2022",
+				"media": {
+					"url": "img/2022-pyramids.png",
+					"caption": "The Future",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 30.8690963,
+					"zoom": 10,
+					"lat": 29.7100202,
+					"line": false,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Have you seen a mummy? We have.",
+					"text": ""
+				}
+			},
+			{
+				"date": "01/01/2022",
+				"media": {
+					"url": "img/2022-redeemer.png",
+					"caption": "The Future",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": -43.2126812,
+					"zoom": 15,
+					"lat": -22.951911,
+					"line": false,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Rio de Janeiro!",
+					"text": ""
+				}
+			},
+			{
+				"date": "01/01/2022",
+				"media": {
+					"url": "img/2022-lost-arm.png",
+					"caption": "The Future",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 116.5681809,
+					"zoom": 10,
+					"lat": 40.4319118,
+					"line": false,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Shouldn't have gone to China",
+					"text": "Turns out, I ended up getting mauled by a dragon. Or, was it a lion? Anyway, point is, I died."
+				}
+			},
+			{
+				"date": "01/01/2022",
+				"media": {
+					"url": "img/2022-drift.png",
+					"caption": "The Future",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [30, 45],
+					"lon": 128.029996,
+					"zoom": 8,
+					"lat": 29.824401,
+					"line": false,
+					"use_custom_marker": true,
+					"icon": "img/marker_girl.png"
+				},
+				"text": {
+					"headline": "Caro drifted for a while",
+					"text": ""
+				}
+			},
+			{
+				"date": "01/01/2022",
+				"media": {
+					"url": "img/2022-under-bridge.png",
+					"caption": "The Future",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 129.775107,
+					"zoom": 10,
+					"lat": 32.549009,
+					"line": false,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "But then Caro found me",
+					"text": "...under a bridge. Turns out I had amnesia."
+				}
+			},
+			{
+				"date": "01/01/2022",
+				"media": {
+					"url": "img/2022-makes-sense.png",
+					"caption": "The Future",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 129.775107,
+					"zoom": 10,
+					"lat": 32.549009,
+					"line": false,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "Yes, that makes perfect sense.",
+					"text": ""
+				}
+			},
+			{
+				"date": "01/01/2022",
+				"media": {
+					"url": "img/2022-happy-ever-after.png",
+					"caption": "The Future",
+					"credit": ""
+				},
+				"location": {
+					"iconSize": [45, 45],
+					"lon": 129.775107,
+					"zoom": 10,
+					"lat": 32.549009,
+					"line": false,
+					"use_custom_marker": true,
+					"icon": "img/marker_couple.png"
+				},
+				"text": {
+					"headline": "And then we lived happily ever after",
+					"text": "THE END."
+				}
 			}
-		}],
+		],
 		"map_type": "stamen:watercolor",
 		"call_to_action": false,
 		"call_to_action_text": "",
